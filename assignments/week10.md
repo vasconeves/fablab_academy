@@ -46,7 +46,7 @@ and the PCB layout.
 <!--ed2  -->
 ![](../images/week10/ed2.jpg){: style="width:100%"}
 
-***In the end I didn't finish the MQ-6 due to lack of a component. Instead I finished doing this part with BME280 (temperature/humidity/pressure sensor) and a HM3301 (particulate matter sensor) devices.***
+***In the end I didn't finish the MQ-7 due to lack of a component. Instead I finished doing this part with BME280 (temperature/humidity/pressure sensor) and a HM3301 (particulate matter sensor) devices.***
 
 ## HM3301 and BME280 input devices
 

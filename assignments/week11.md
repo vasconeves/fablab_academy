@@ -47,7 +47,7 @@ At this points the tentative components are:
 * Circuit with ESP32 MC (TBD)
 * PMS7001 particulate matter sensor
 * BME280 temperature, humidity and pressure sensor
-* inductive receiver coil
+* inductive receiver coilusing the X-Carve Machine (Large CNC)
 * Battery. The size of the battery needs to be ascertained with empirical experimentation. I will add a standard 18650 2600mAh battery just for reference.
 * GPS module.
 
@@ -91,7 +91,7 @@ From here i did extrudes on all surfaces, with differences of 1mm in height. The
 ![](../images/week11/anon2.jpg)
 
 
-The next step would be to sculpt a bit the two desings...tbd...
+The next step would be to sculpt a bit the two designs...tbd...
 
 ## Fulfilling the assignment part 2
 
