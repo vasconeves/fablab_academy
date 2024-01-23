@@ -209,11 +209,11 @@ The learning modules usually comprise one week and the full length of the course
  - Prepare drafts of your summary slide
  - TBD
 
-[Week 18 - Project Development]
+[Week 18 - Project Development]()
 
 - [Final project page](projects/final-project.md)
 - TBD
 
-[Week 19 - Final project requirements]
+[Week 19 - Final project requirements]()
 
 - TBD
